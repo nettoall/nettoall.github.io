@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nettoall.github.io/sitemap.xml
