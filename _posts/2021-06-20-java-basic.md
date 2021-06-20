@@ -1,8 +1,9 @@
 ---
 title: "Java Lambda 정리"
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [POST, Java Basic]
-tags: [Blog]
+layout:  Posts
+permalink: /posts/
+author_profile: true
 last_modified_at: 2021-06-20
 ---
 
