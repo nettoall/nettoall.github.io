@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "default" "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "IT technic"
+title                    : "IT technical"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Never4Got10"
