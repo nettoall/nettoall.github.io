@@ -7,7 +7,7 @@ tags:
   - java
   - lambda
 author_profile: true
-last_modified_at: 2021-06-20
+last_modified_at: YYYY-MM-DD HH:MM:SS +/-TTTT
 ---
 
 #인터페이스
@@ -204,4 +204,4 @@ last_modified_at: 2021-06-20
    Employee[] employee = stream.toArray(Employee[]::new);
    ```
 
-# 람다 표현식 처리 
+# 람다 표현식 처리
