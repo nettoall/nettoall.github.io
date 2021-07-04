@@ -1,13 +1,13 @@
 ---
 title: "Java Lambda 정리"
-date: YYYY-MM-DD HH:MM:SS +/-TT:TT
+date: YYYY-MM-DD HH:MM:SS
 categories:
   - Java Basic
 tags:
   - java
   - lambda
 author_profile: true
-last_modified_at: YYYY-MM-DD HH:MM:SS +/-TT:TT
+last_modified_at: YYYY-MM-DD HH:MM:SS
 ---
 
 #인터페이스
